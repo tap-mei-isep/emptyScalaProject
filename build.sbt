@@ -2,7 +2,7 @@ name := "empty scala 3"
 
 version := "0.1"
 
-scalaVersion := "3.3.5"
+scalaVersion := "3.3.7"
 
 scalacOptions ++= Seq("-source:future", "-indent", "-rewrite")
 
